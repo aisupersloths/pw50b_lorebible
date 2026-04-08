@@ -15,7 +15,6 @@ scope: galaxy
 - Uploads and biological minds are on a continuum rather than separated by a hard ontological wall.
 - Ascension exists and can remove bodies from ordinary demographic circulation.
 - Many transcended beings become inaccessible and incomprehensible to ordinary people.
-- Not every derived or edited sentience is an upload.
 - Many economically useful specialist sentiences are more local, bounded, temporary, and pragmatic than full uploads or ascended beings.
 
 ## Constraints
