@@ -9,7 +9,7 @@ scope: galaxy
 
 ## Summary
 
-The setting treats personhood as real but plastic. Memory-sharing complicates identity without abolishing it.
+The setting treats personhood as real but plastic. Memory-sharing complicates identity without abolishing it. Agency is also editable, which further destabilizes any simple boundary between the same person, a modified continuation, and a new person.
 
 ## Canon
 
@@ -21,6 +21,9 @@ The setting treats personhood as real but plastic. Memory-sharing complicates id
 - There is no hard boundary between ordinary intelligence and superintelligence.
 - Clones are usually instantiated as adults.
 - Children created for ordinary reproduction are distinct persons with genuine childhoods.
+- There is no clean hard boundary between memory, personality, and agency.
+- A copied or branched mind can be modified not only in remembered content but also in motives, dispositions, and working preferences.
+- Many advanced societies treat such modification as routine technology rather than metaphysical rupture.
 
 ## Human shorthand
 
@@ -32,3 +35,9 @@ It is not a claim that they are recognizably Homo sapiens.
 - These beings may descend from humans, dogs, chimps, elephants, dolphins, octopi, and other Earth-origin lineages.
 - They may be biologically unrecognizable to us.
 - They do not generally know that they share deep common ancestry.
+
+## Implications
+
+- Societies differ on whether highly edited copies remain the same person, become a new person, or occupy an intermediate status.
+- Personhood cannot be reduced to one binary switch when copying, branching, volitional editing, and reintegration are all common.
+- Law, labor, kinship, and social trust all depend on local answers to these identity questions.

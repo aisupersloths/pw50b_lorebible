@@ -104,3 +104,35 @@ Each task should follow this structure:
     - define negative constraint exports
     - define which canon files feed which export lists
     - define how generators avoid consuming irrelevant artifacts
+
+- [todo] PW50B-T006 Define specialist-sentience ontology
+  - Type: ontology
+  - Priority: P1
+  - Scope: galaxy
+  - Depends on: none
+  - Acceptance:
+    - choose stable canon terminology for specialist sentiences and related concepts
+    - define their relationship to memory-sharing, identity, and economics
+    - distinguish ordinary specialist sentiences from uploads and ascended beings
+    - identify unresolved edge cases for later canon work
+
+- [todo] PW50B-T007 Define legal variation for agency engineering
+  - Type: synthesis
+  - Priority: P1
+  - Scope: galaxy
+  - Depends on: PW50B-T006
+  - Acceptance:
+    - identify the main legal regimes for specialist sentiences
+    - define major axes of variation in consent, deployment, reintegration, retirement, and liability
+    - preserve world-level pluralism rather than imposing a galaxy-wide answer
+
+- [todo] PW50B-T008 Model local economies built on specialist sentiences
+  - Type: synthesis
+  - Priority: P1
+  - Scope: system
+  - Depends on: PW50B-T006
+  - Acceptance:
+    - identify major sectors in economies built on agency engineering
+    - identify how ordinary people make a living in such systems
+    - relate those sectors to existing scarcities and niche logic
+    - avoid treating ghost-related labor as central at this stage

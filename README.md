@@ -74,7 +74,7 @@ They must ask the user and state:
 
 ## Current setting summary
 
-This is an ultra-deep-future setting in the merged Milky Way–Andromeda galaxy, long after all other galaxies have fallen beyond the light cone. Memory-sharing, copying, branching, and merging are foundational technologies. Uploading, near-immortality, and superintelligence exist, but human-scale embodied minds still persist because they remain economically, epistemically, and operationally useful in a galaxy of differentiated niches and long historical cycles.
+This is an ultra-deep-future setting in the merged Milky Way–Andromeda galaxy, long after all other galaxies have fallen beyond the light cone. Memory-sharing, copying, branching, and merging are foundational technologies. Uploading, near-immortality, and superintelligence exist, but human-scale embodied minds still persist because they remain economically, epistemically, and operationally useful in a galaxy of differentiated niches and long historical cycles. Economically useful specialist sentiences are often derived from copied, edited, archived, or otherwise reconfigured minds rather than built solely as machine learning models or conventional software.
 
 ## Start here
 
