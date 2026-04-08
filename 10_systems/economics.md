@@ -59,5 +59,3 @@ Do not reduce the setting economy to any single monocausal explanation such as:
 - IP only
 - randomness only
 - post-scarcity leisure only
-- conventional employment only
-- conventional software only
