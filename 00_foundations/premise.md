@@ -23,7 +23,6 @@ The setting takes place roughly 50 billion years in the future in the merged Mil
 - Many transcended beings are inaccessible and incomprehensible to non-transcended minds.
 - Technology level varies enormously by world.
 - Archaeology and forgotten history are major sources of knowledge and innovation.
-- Human-scale embodied minds persist not only because they remain locally useful in many niches, but also because person-derived agency remains a major productive substrate in many ordinary civilizations.
 
 ## Constraints
 
