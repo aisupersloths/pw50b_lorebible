@@ -18,6 +18,11 @@ Worlds should be built as local realizations of broad galactic conditions, not a
 - Human-scale beings persist for practical reasons, not sentimentality.
 - Worlds may be shaped by superintelligences assigning different weights to different social/economic functions.
 - Ruin-rich worlds, filter worlds, exploitation worlds, witness worlds, and ecological-management worlds are all plausible niche types.
+- Every society should have an answer to how it treats specialist sentiences.
+- Every society should have an answer to whether volitional editing is normal, restricted, stigmatized, or sacred.
+- Every society should have an answer to where high-trust relatively unedited labor retains prestige or necessity.
+- Every society should have an answer to what forms of embodiment are common.
+- Every society should have an answer to what counts locally as abuse, emancipation, personhood threshold, and legitimate deployment.
 
 ## Design questions for any new world
 
@@ -27,6 +32,8 @@ Worlds should be built as local realizations of broad galactic conditions, not a
 - What legal form dominates?
 - What stability profile does the world have?
 - What daily-life norms are shaped by that niche?
+- How are specialist sentiences made, used, restricted, or protected here?
+- What kinds of agency editing are permitted here?
 
 ## Constraint
 
