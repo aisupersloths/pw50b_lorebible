@@ -24,7 +24,6 @@ The setting treats personhood as real but plastic. Memory-sharing complicates id
 - There is no clean hard boundary between memory, personality, and agency.
 - A copied or branched mind can be modified not only in remembered content but also in motives, dispositions, and working preferences.
 - Many advanced societies treat such modification as routine technology rather than metaphysical rupture.
-- Reintegration does not erase the ethical or legal significance of a deployed branch's separate experience.
 
 ## Human shorthand
 
